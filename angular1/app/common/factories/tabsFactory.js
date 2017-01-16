@@ -1,4 +1,5 @@
-(function)() {
+(function() {
+  'use strict'
  angular.module('myApp').factory('tabs', [ TabsFactory ])
 
  function TabsFactory() {
