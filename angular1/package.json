@@ -10,7 +10,7 @@
   "author": "Rikardo Andre Vieira",
   "license": "ISC",
   "devDependencies": {
-    "admin-lte": "^2.3.8",
+    "admin-lte": "^2.3.11",
     "angular": "^1.6.1",
     "angular-animate": "^1.6.1",
     "angular-toastr": "^2.1.1",
@@ -26,5 +26,8 @@
     "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11",
     "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "fs-extra": "^1.0.0"
   }
 }
